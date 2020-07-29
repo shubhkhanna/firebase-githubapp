@@ -25,7 +25,7 @@ const Header = () => {
           GitHub Search App
         </Link>
       </NavbarBrand>
-      <NavbarText className="text-white text-center">
+      <NavbarText className="text-white">
         {context.user?.email ? context.user.email : ""}
       </NavbarText>
       <NavbarToggler onClick={toggle} />
