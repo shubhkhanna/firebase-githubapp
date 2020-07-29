@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a322dc9b0df5402418f2d212494a7c0",
+    "revision": "19ad4d51101618861e755a533f60722f",
     "url": "/firebase-githubapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/firebase-githubapp/static/css/2.79dd3d24.chunk.css"
   },
   {
-    "revision": "1928980b60d9bfa54111",
-    "url": "/firebase-githubapp/static/css/main.5f361e03.chunk.css"
+    "revision": "f28bc676fb8a8e8b26e8",
+    "url": "/firebase-githubapp/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "cedf4dd667f2a16273dc",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/firebase-githubapp/static/js/2.f3e3d625.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1928980b60d9bfa54111",
-    "url": "/firebase-githubapp/static/js/main.4c67bd0e.chunk.js"
+    "revision": "f28bc676fb8a8e8b26e8",
+    "url": "/firebase-githubapp/static/js/main.f853b7d9.chunk.js"
   },
   {
     "revision": "c7dfc6d3c499170563d9",
